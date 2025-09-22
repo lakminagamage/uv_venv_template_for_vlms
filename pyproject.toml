@@ -10,6 +10,7 @@ dependencies = [
     "pillow",
     "torchvision",
     "accelerate",
+    "huggingface_hub[cli]"
     
 
 ]
