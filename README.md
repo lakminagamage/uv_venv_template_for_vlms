@@ -2,7 +2,7 @@ This is a template repository for setting up a Python virtual environment using 
 
 1. Install UV
 `curl -LsSf https://astral.sh/uv/install.sh | sh`
-`source $HOME/.local/bin/env (sh, bash, zsh)`
+`source $HOME/.local/bin/env`
 
 3. Install Venv
 `uv venv`
