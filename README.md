@@ -14,3 +14,8 @@ use `uv sync` or  `uv add requirements.txt`
 
 6. Run your code
 `uv run main.py`
+
+
+## Git Setup 
+  `git config --global user.email "you@example.com"`
+  `git config --global user.name "Your Name"`
